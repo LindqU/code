@@ -1,0 +1,242 @@
+,国名,英語国名,コード
+0,アイスランド,Iceland,ISL
+1,アイルランド,Ireland,IRL
+2,アゼルバイジャン,Azerbaijan,AZE
+3,アフガニスタン,Afghanistan,AFG
+4,アラブ首長国連邦,United Arab Emirates,ARE
+5,アルジェリア,Algeria,DZA
+6,アルゼンチン,Argentina,ARG
+7,アルバ,Aruba,ABW
+8,アルバニア,Albania,ALB
+9,アルメニア,Armenia,ARM
+10,アンギラ,Anguilla,AIA
+11,アンゴラ,Angola,AGO
+12,アンティグア・バーブーダ,Antigua and Barbuda,ATG
+13,アンドラ,Andorra,AND
+14,イエメン,Yemen,YEM
+15,イスラエル,Israel,ISR
+16,イタリア,Italy,ITA
+17,イラク,Iraq,IRQ
+18,イラン,Iran,IRN
+19,インド,India,IND
+20,インドネシア,Indonesia,IDN
+21,ウェーク島,Wake Island,WAK
+22,ウガンダ,Uganda,UGA
+23,ウクライナ,Ukraine,UKR
+24,ウズベキスタン,Uzbekistan,UZB
+25,ウルグアイ,Uruguay,URY
+26,英国,United Kingdom,GBR
+27,英領インド洋地域,British Indian Ocean Territory,IOT
+28,英領バージン諸島,"Virgin Islands, British",VGB
+29,エクアドル,Ecuador,ECU
+30,エジプト,Egypt,EGY
+31,エストニア,Estonia,EST
+32,エスワティニ,ESWATINI,SWZ
+33,エチオピア,Ethiopia,ETH
+34,エリトリア,Eritrea,ERI
+35,エルサルバドル,El Salvador,SLV
+36,オーストラリア,Australia,AUS
+37,オーストリア,Austria,AUT
+38,オマーン,Oman,OMN
+39,オランダ,Netherlands,NLD
+40,オランダ領アンティル,Netherlands Antilles,ANT
+41,カーボヴェルデ,Cape Verde,CPV
+42,カザフスタン,Kazakhstan,KAZ
+43,カシミール,Kashmir,KAS
+44,カタール,Qatar,QAT
+45,カナダ,Canada,CAN
+46,カメルーン,Cameroon,CMR
+47,カンボジア,Cambodia,KHM
+48,ガーナ,Ghana,GHA
+49,ガイアナ,Guyana,GUY
+50,ガボン,Gabon,GAB
+51,ガンビア,Gambia,GMB
+52,北朝鮮,Democratic People's Republic of Korea,PRK
+53,北マケドニア,NORTH MACEDONIA,MKD
+54,北マリアナ諸島,Northern Mariana Islands,MNP
+55,キプロス,Cyprus,CYP
+56,キューバ,Cuba,CUB
+57,キリバス,Kiribati,KIR
+58,キルギス,Kyrgyzstan,KGZ
+59,ギニア,Guinea,GIN
+60,ギニアビサウ,Guinea-Bissau,GNB
+61,ギリシャ,Greece,GRC
+62,クウェート,Kuwait,KWT
+63,クック諸島,Cook Islands,COK
+64,クリスマス島,Christmas Island,CXR
+65,クロアチア,Croatia,HRV
+66,グアテマラ,Guatemala,GTM
+67,グアドループ島,Guadeloupe,GLP
+68,グアム,Guam,GUM
+69,グリーンランド,Greenland,GRL
+70,グレナダ,Grenada,GRD
+71,ケイマン諸島,Cayman Islands,CYM
+72,ケニア,Kenya,KEN
+73,コートジボワール,Cote d'Ivoire,CIV
+74,ココス諸島,Cocos Islands,CCK
+75,コスタリカ,Costa Rica,CRI
+76,コモロ連合,Comoros,COM
+77,コロンビア,Colombia,COL
+78,コンゴ共和国,Congo,COG
+79,コンゴ民主共和国,Democratic Republic of the Congo,COD
+80,サウジアラビア,Saudi Arabia,SAU
+81,サモア,Samoa,WSM
+82,サントメ・プリンシペ,Sao Tome and Principe,STP
+83,サンピエール島・ミクロン島,Saint Pierre and Miquelon,SPM
+84,サンマリノ,San Marino,SMR
+85,ザンビア,Zambia,ZMB
+86,シエラレオネ,Sierra Leone,SLE
+87,シリア,Syrian Arab Republic,SYR
+88,シンガポール,Singapore,SGP
+89,ジブチ,Djibouti,DJI
+90,スバールバル諸島・ヤンマイエン諸島,Svalbard and Jan Mayen,SJM
+91,ジャマイカ,Jamaica,JAM
+92,ジョージア,Georgia,GEO
+93,ジョンストン島,Johnston Atoll,JON
+94,ジンバブエ,Zimbabwe,ZWE
+95,スーダン,Sudan,SDN
+96,スイス,Switzerland,CHE
+97,スウェーデン,Sweden,SWE
+98,チャネル諸島,Channel Islands,CHI
+99,スペイン,Spain,ESP
+100,スリナム,Suriname,SUR
+101,スリランカ,Sri Lanka,LKA
+102,スロバキア,Slovakia,SVK
+103,スロベニア,Slovenia,SVN
+104,セイシェル,Seychelles,SYC
+105,赤道ギニア,Equatorial Guinea,GNQ
+106,セネガル,Senegal,SEN
+107,セルビア,Serbia,SRB
+108,セントクリストファー・ネイビス,Saint Kitts and Nevis,KNA
+109,セントビンセント及びグレナディーン諸島,Saint Vincent and the Grenadines,VCT
+110,セントヘレナ島,Saint Helena,SHN
+111,セントルシア,Saint Lucia,LCA
+112,ソマリア,Somalia,SOM
+113,ソロモン諸島,Solomon Islands,SLB
+114,タークス諸島・カイコス諸島,Turks and Caicos Islands,TCA
+115,タイ,Thailand,THA
+116,台湾,Taiwan,TWN
+117,タジキスタン,Tajikistan,TJK
+118,タンザニア,Tanzania,TZA
+119,大韓民国,Korea,KOR
+120,チェコ,Czech Republic,CZE
+121,チャド,Chad,TCD
+122,フェロー諸島,Faroe Islands,FRO
+123,中央アフリカ,Central African Republic,CAF
+124,中国,China,CHN
+125,チュニジア,Tunisia,TUN
+126,チリ,Chile,CHL
+127,ツバル,Tuvalu,TUV
+128,デンマーク,Denmark,DNK
+129,トーゴ,Togo,TGO
+130,トケラウ諸島,Tokelau,TKL
+131,トリニダード・トバゴ,Trinidad and Tobago,TTO
+132,トルクメニスタン,Turkmenistan,TKM
+133,トルコ,Turkey,TUR
+134,トンガ,Tonga,TON
+135,ドイツ,Germany,DEU
+136,ドミニカ共和国,Dominican Republic,DOM
+137,ドミニカ国,Dominica,DMA
+138,ナイジェリア,Nigeria,NGA
+139,ナウル,Nauru,NRU
+140,ナミビア,Namibia,NAM
+141,南極大陸,Antarctica,ATA
+142,ニウエ,Niue,NIU
+143,ニカラグア,Nicaragua,NIC
+144,西サハラ,Western Sahara,ESH
+145,ニジェール,Niger,NER
+146,ニューカレドニア,New Caledonia,NCL
+147,ニュージーランド,New Zealand,NZL
+148,ネパール,Nepal,NPL
+149,ノーフォーク島,Norfolk Island,NFK
+150,ノルウェー,Norway,NOR
+151,ハイチ,Haiti,HTI
+152,ハンガリー,Hungary,HUN
+153,バーレーン,Bahrain,BHR
+154,バチカン市国,Vatican City State,VAT
+155,バヌアツ,Vanuatu,VUT
+156,バハマ,Bahamas,BHS
+157,バミューダ諸島,Bermuda,BMU
+158,バルバドス,Barbados,BRB
+159,バングラディシュ,Bangladesh,BGD
+160,パキスタン,Pakistan,PAK
+161,パナマ,Panama,PAN
+162,パプアニューギニア,Papua New Guinea,PNG
+163,パラオ,Palau,PLW
+164,パラグアイ,Paraguay,PRY
+165,パレスチナ,Palestinian Territory,PSE
+166,東ティモール,Timor-Leste,TLS
+167,ピトケアン島,Pitcairn,PCN
+168,フィジー諸島,Fiji,FJI
+169,フィリピン,Philippines,PHL
+170,フィンランド,Finland,FIN
+171,マン島,Isle of Man,IMN
+172,フォークランド（マルビナス）諸島,Falkland Islands,FLK
+173,フランス,France,FRA
+174,フランス領ギアナ,French Guiana,GUF
+175,フランス領ポリネシア,French Polynesia,PYF
+176,ブータン,Bhutan,BTN
+177,ブラジル,Brazil,BRA
+178,ブルガリア,Bulgaria,BGR
+179,ブルキナファソ,Burkina Faso,BFA
+180,ブルネイ,Brunei Darussalam,BRN
+181,ブルンジ,Burundi,BDI
+182,プエルトリコ,Puerto Rico,PRI
+183,米国,United States of America,USA
+184,米領サモア,American Samoa,ASM
+185,米領バージン諸島,"Virgin Islands, U.S.",VIR
+186,ベトナム,Viet Nam,VNM
+187,ベナン,Benin,BEN
+188,ベネズエラ,Venezuela,VEN
+189,ベラルーシ,Belarus,BLR
+190,ベリーズ,Belize,BLZ
+191,ベルギー,Belgium,BEL
+192,ペルー,Peru,PER
+193,香港,Hong Kong,HKG
+194,ホンジュラス,Honduras,HND
+195,ボスニア・ヘルツェゴビナ,Bosnia and Herzegovina,BIH
+196,ボツワナ,Botswana,BWA
+197,ボリビア,Bolivia,BOL
+198,ポーランド,Poland,POL
+199,ポルトガル,Portugal,PRT
+200,マーシャル諸島,Marshall Islands,MHL
+201,マイヨット島,Mayotte,MYT
+202,マカオ,Macao,MAC
+203,マダガスカル,Madagascar,MDG
+204,マラウイ,Malawi,MWI
+205,マリ,Mali,MLI
+206,マルタ,Malta,MLT
+207,マルチニーク島,Martinique,MTQ
+208,マレーシア,Malaysia,MYS
+209,ミクロネシア連邦,Micronesia,FSM
+210,ミッドウェー諸島,Midway Atoll,MID
+211,南アフリカ,South Africa,ZAF
+212,ミャンマー,Myanmar,MMR
+213,メキシコ,Mexico,MEX
+214,モーリシャス,Mauritius,MUS
+215,モーリタニア,Mauritania,MRT
+216,モザンビーク,Mozambique,MOZ
+217,モナコ,Monaco,MCO
+218,モルディブ,Maldives,MDV
+219,モルドバ,Moldova,MDA
+220,モロッコ,Morocco,MAR
+221,モンゴル,Mongolia,MNG
+222,モンセラット,Montserrat,MSR
+223,モンテネグロ,Montenegro,MNE
+224,ヨルダン,Jordan,JOR
+225,ラオス,Lao,LAO
+226,ラトビア,Latvia,LVA
+227,リトアニア,Lithuania,LTU
+228,リヒテンシュタイン,Liechtenstein,LIE
+229,リビア,Libyan Arab Jamahiriya,LBY
+230,リベリア,Liberia,LBR
+231,ルーマニア,Romania,ROU
+232,ジブラルタル,Gibraltar,GIB
+233,ルクセンブルク,Luxembourg,LUX
+234,ルワンダ,Rwanda,RWA
+235,レソト,Lesotho,LSO
+236,レバノン,Lebanon,LBN
+237,レユニオン,Reunion,REU
+238,ロシア,Russian Federation,RUS
+239,ワリス・フテュナ諸島,Wallis and Futuna,WLF
+240,その他の国・地域,,ZZZ
